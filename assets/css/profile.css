@@ -24,8 +24,11 @@
 
 /* Body */ 
 body {
-  background-image: url("http://happyapple.us/wp-content/uploads/2013/04/honeycomb.jpg");
+  background-image: url("https://i.pinimg.com/originals/2e/fe/6c/2efe6c2e4ef07ac155fe8b7182ab4d60.jpg");
+  background-size: cover;
+  font-family: 'Muli', sans-serif;
 }
+
 #profile-btn:hover {
     background-color: lightyellow;
     color: black;
@@ -41,7 +44,7 @@ body {
 }
 
 .profile-sidebar {
-  padding: 20px 0 10px 0;
+  padding: 20px;
   background: #fff;
   border: 2px #343a40 solid;
 }
@@ -132,18 +135,13 @@ a {
   -webkit-transition: all .25s ease-in-out;
   transition: all .25s ease-in-out;
 }
-.ct-u-paddingTop10 {
-  padding-top: 10px !important;
-}
+
 .ct-footer {
   background-color:#333;
-  padding-top: 70px;
-  margin-top: 20px;
-  position: relative;
+  padding-top: 10px;
 }
 .ct-footer-pre {
   width: 100%;
-  padding-bottom: 55px;
   border-bottom: 1px solid #555;
   border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
@@ -180,7 +178,7 @@ a {
   padding: 0
 }
 .ct-footer-list {
-  padding: 50px 0;
+  padding: 20px 0;
   list-style: none;
   padding-left: 0;
   display: table;
