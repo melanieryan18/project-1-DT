@@ -138,7 +138,10 @@ p {
     background: #333;
     color: white;
     display: flex;
-    min-height: 10vh;
+    min-height: 15vh;
     flex-direction: column;  
 }
 
+.flexfoot {
+    flex: 1;
+}
