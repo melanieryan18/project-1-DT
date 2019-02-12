@@ -1,15 +1,20 @@
+
+body {
+    background-image: url("https://i.pinimg.com/originals/2e/fe/6c/2efe6c2e4ef07ac155fe8b7182ab4d60.jpg");
+    background-size: cover;
+}
+
 img {
     width: 100%;  
 }
-.jumbotron
-{
+
+.jumbotron{
     margin-top: -10px;
     background-color:blanchedalmond;
     
 }
 
-p
-{
+p{
   margin-top: 0%; 
   text-align: center;
   font-weight: bold;
@@ -18,6 +23,7 @@ p
   width: 100%;
   height: 25px;
 }
+
 .card {
     margin-bottom: 20px;
 }
@@ -27,20 +33,20 @@ h1,h5
     
     color: royalblue;
 }
-h5
-{
+
+h5 {
     margin-left:2%;
     color: black;
 }
-h6
-{
+
+h6 {
     color:grey;
 }
-button{
+button {
     width: 100%
 }
-.col-lg-5
-{
+
+.col-lg-5 {
     margin-left: 17px;
 }
 
@@ -51,15 +57,13 @@ button{
 }
 
 
-.close
-{
+.close {
     float:right;
     width:14%;
     color:black;
 }
 
-.btnclose
-{
+.btnclose {
     margin-bottom:1%;
     width:25%;
     align-content: center;
@@ -67,16 +71,7 @@ button{
     font: white;
 }
 
-i
-{
-    color:black;
-    size:1px;
-    margin-left: 1%;
-    margin-top:1%;
-}
-
-.card-header
-{
+.card-header {
     background-color: #343a40;
     color:white;
     font:bold;
@@ -95,7 +90,6 @@ i
     font-weight: bold;
 }
 
-
 #create-account {
     background-color:#343a40;
     font-weight: bold;
@@ -108,19 +102,17 @@ i
     font-weight: bold;
 }
 
-.backlink{
+.backlink {
     color:white;
 }
 
-.backlink:hover
-{
+.backlink:hover {
     background-color: lightyellow;
     color: black;
     font-weight: bold;
 }
 
-.btnclose:hover
-{
+.btnclose:hover {
     background-color: lightyellow;
     color: black;
     font-weight: bold;
@@ -128,7 +120,7 @@ i
 
 #nav-logo {
     height: 80px;
-    width: 300px;    ;
+    width: 300px; 
 }
 
 .nav-link {
@@ -137,9 +129,8 @@ i
         border: solid 2px white;
         margin-left: 10px;
 }
-body {
-  background-image: url("http://happyapple.us/wp-content/uploads/2013/04/honeycomb.jpg");
-}
+
+
 #profile-btn:hover {
     background-color: lightyellow;
     color: black;
