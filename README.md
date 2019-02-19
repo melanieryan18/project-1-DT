@@ -4,6 +4,10 @@
 Concept: A social application that aggregates local, relevant content & connects new residents to local activities & professional opportunities in their new city.
 Development Motivation: No app exists for the specific demographic of people new to a city. Our team cosists almost completely of San Diego transplants. We were also interested in the challenge of Google and MeetUp APIs
 
+Please feel free to login & poke around using:
+testing123@gmail.com
+testing123
+
 ## Built With
 HTML CSS BootStrap
 Firebase
