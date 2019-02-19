@@ -14,4 +14,4 @@ Firebase
 Deployed on GitHub & Heroku
 APIs: Google Places, MeetUp, Giphy
 
-[See Our Presentation] (https://docs.google.com/presentation/d/e/2PACX-1vQFNE6Au93ngkQmrcnKAvCVNOD_7tAajCId_tF64Bo4MkvkO_TwxaPFAvimUR3Oa_nt6vCUq6i9C3fp/pub?start=false&loop=false&delayms=3000)
+[Presentation] (https://docs.google.com/presentation/d/e/2PACX-1vQFNE6Au93ngkQmrcnKAvCVNOD_7tAajCId_tF64Bo4MkvkO_TwxaPFAvimUR3Oa_nt6vCUq6i9C3fp/pub?start=false&loop=false&delayms=3000)
